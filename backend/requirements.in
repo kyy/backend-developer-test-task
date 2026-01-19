@@ -1,0 +1,9 @@
+django
+django-ninja
+django-redis
+django-environ
+celery
+psycopg2-binary
+redis
+async_timeout
+gunicorn
