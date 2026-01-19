@@ -1,0 +1,6 @@
+.idea
+.coverage
+*.log
+requirements.in
+requirements_dev.in
+run_celery.py
